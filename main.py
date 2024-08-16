@@ -1,0 +1,5 @@
+print("hi")
+print(9)
+print("this is my",1,"atempt")
+print("hello\n",4)
+print("hello to ",end="*")
